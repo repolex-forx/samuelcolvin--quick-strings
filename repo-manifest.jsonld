@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/samuelcolvin/quick-strings/commit/2e427ddeef31de44794c400d87b0c0121bca0a72",
       "git:hexsha": "2e427ddeef31de44794c400d87b0c0121bca0a72",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
